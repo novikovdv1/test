@@ -1,14 +1,8 @@
-# Dialogue Analysis PoC
-
-This project implements an automated analysis system for sales dialogue quality assessment using Groq's LLM API.
-
 ## Выбор инструмента
 
 Groq API был выбран по следующим причинам:
-- Высокая скорость обработки запросов (до 10x быстрее GPT-4)
-- Поддержка длинных контекстов (до 32k токенов)
-- Mixtral 8x7b - одна из лучших открытых моделей для работы с русским языком
-- Более выгодная ценовая политика по сравнению с OpenAI
+- Бесплатные API Keys с рейт лимитами которые я указал в analyzer.py
+- llama-3.1-8b-instant- одна из лучших открытых моделей для работы с русским языком
 
 ## Ограничения
 
