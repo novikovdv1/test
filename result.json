@@ -1,0 +1,260 @@
+[
+  {
+    "dialogue_id": 1,
+    "analysis": {
+      "info_anchors_analysis": {
+        "info_anchors_found": [
+          "Goals and KPIs",
+          "Current traffic sources",
+          "Budget",
+          "URLs/artifacts",
+          "Partner expectations"
+        ],
+        "info_anchors_missing": []
+      },
+      "objections_analysis": {
+        "objections_found": [
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "вайт какой должен быть?",
+            "manager_handled": true,
+            "manager_actions": [
+              "asked for clarification on what the client meant by 'вайт'",
+              "explained the requirements for a valid 'вайт'",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "он спаршивает можно ли на это как вайт?",
+            "manager_handled": true,
+            "manager_actions": [
+              "explained that the client's previous 'вайт' did not meet the requirements",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements",
+              "emphasized the importance of meeting the requirements for a valid 'вайт'"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "вайт наш",
+            "manager_handled": true,
+            "manager_actions": [
+              "asked for clarification on the client's 'вайт'",
+              "explained the requirements for a valid 'вайт'",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "но на вайт как-то не похоже",
+            "manager_handled": true,
+            "manager_actions": [
+              "asked for clarification on the client's concerns about the 'вайт'",
+              "explained the requirements for a valid 'вайт'",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "вайт классику берем +кло и все",
+            "manager_handled": true,
+            "manager_actions": [
+              "explained the requirements for a valid 'вайт'",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements",
+              "emphasized the importance of meeting the requirements for a valid 'вайт'"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "но есть все таки, я сегодня с простого ака запустил и по одной крео не прошло",
+            "manager_handled": true,
+            "manager_actions": [
+              "asked for clarification on the client's concerns about the ad creatives",
+              "explained the requirements for ad creatives",
+              "offered to provide guidance on creating ad creatives that meet the requirements"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "Ваши рекламные объявления не показываются, так как они не соответствуют нашей политике в отношении рекламы.",
+            "manager_handled": true,
+            "manager_actions": [
+              "explained the requirements for ad creatives",
+              "offered to provide guidance on creating ad creatives that meet the requirements",
+              "emphasized the importance of meeting the requirements for ad creatives"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "Так а какое тогда сделать вайт под наш крео?",
+            "manager_handled": true,
+            "manager_actions": [
+              "explained the requirements for a valid 'вайт'",
+              "offered to make adjustments to the client's 'вайт' to meet the requirements",
+              "emphasized the importance of meeting the requirements for a valid 'вайт'"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "У нас ведь [GreyProject_A]",
+            "manager_handled": true,
+            "manager_actions": [
+              "asked for clarification on the client's concerns about the project",
+              "explained the requirements for the project",
+              "offered to provide guidance on creating a project that meets the requirements"
+            ]
+          },
+          {
+            "objection_type": "unfavorable_cooperation_terms",
+            "client_quote": "Я даже не знаю что придумать",
+            "manager_handled": true,
+            "manager_actions": [
+              "offered to provide guidance on creating a project that meets the requirements",
+              "emphasized the importance of meeting the requirements for the project",
+              "explained the benefits of working together to create a successful project"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "dialogue_id": 2,
+    "analysis": {
+      "info_anchors_analysis": {
+        "info_anchors_found": [
+          "Goals and KPIs",
+          "Current traffic sources",
+          "Budget",
+          "URLs/artifacts",
+          "Partner expectations"
+        ],
+        "info_anchors_missing": [
+          "None"
+        ]
+      },
+      "objections_analysis": {
+        "objections_found": [
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "1000-5000$ у вас стоит вилка",
+            "manager_handled": true,
+            "manager_actions": [
+              "Мы работаем по процентной ставке от месячного спенда - в среднем 10-15 процентов (это что касается [AdPlatform_2]).",
+              "Можем работать по [CryptoPayment].",
+              "Оплата - [Currency_3]. Перепей - 50 000 [Currency_3]. [Tax_Name] - 20%. Комиссии - нет."
+            ]
+          },
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "3,5К на показы в месяц?",
+            "manager_handled": true,
+            "manager_actions": [
+              "Мы работаем по процентной ставке от месячного спенда - в среднем 10-15 процентов (это что касается [AdPlatform_2]).",
+              "Можем работать по [CryptoPayment].",
+              "Оплата - [Currency_3]. Перепей - 50 000 [Currency_3]. [Tax_Name] - 20%. Комиссии - нет."
+            ]
+          },
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "300к",
+            "manager_handled": true,
+            "manager_actions": [
+              "Мы работаем по процентной ставке от месячного спенда - в среднем 10-15 процентов (это что касается [AdPlatform_2]).",
+              "Можем работать по [CryptoPayment].",
+              "Оплата - [Currency_3]. Перепей - 50 000 [Currency_3]. [Tax_Name] - 20%. Комиссии - нет."
+            ]
+          },
+          {
+            "objection_type": "unfavorable cooperation terms",
+            "client_quote": "Еее",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "unfavorable cooperation terms",
+            "client_quote": "Норм, но я постараюсь сам",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "loss to competitor",
+            "client_quote": "Добрый день, встреча была от размещения роликов на [AdPlatform_3] решено отказатся",
+            "manager_handled": true,
+            "manager_actions": [
+              "Ну собственно как мы и говорили, что это будет слив бюджета.",
+              "Рассмотрели с закачиком [AdPlatform_6_Native]?",
+              "Тогда можем ещё [AdPlatform_4] рассмотреть"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "dialogue_id": 3,
+    "analysis": {
+      "info_anchors_analysis": {
+        "info_anchors_found": [
+          "Goals and KPIs",
+          "Budget",
+          "URLs/artifacts",
+          "Partner expectations"
+        ],
+        "info_anchors_missing": [
+          "Current traffic sources"
+        ]
+      },
+      "objections_analysis": {
+        "objections_found": [
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "Если мы запустили оффер без модерации, есть ли штрафные санкции?",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "unfavorable cooperation terms",
+            "client_quote": "Мин деп на акк",
+            "manager_handled": true,
+            "manager_actions": [
+              "Предложил вариант с минимальным депозитом 500 долларов"
+            ]
+          },
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "Если у нас будут комисии по 200$ за любое пополнение, мы скорее всего не будем переводить",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "financial limitations",
+            "client_quote": "а с каждом переводе по 200 евро комиссия",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "unfavorable cooperation terms",
+            "client_quote": "Мы хотим заключить договор с [GEO_5]",
+            "manager_handled": true,
+            "manager_actions": [
+              "Предложил вариант с оплатой на [GEO_16]"
+            ]
+          },
+          {
+            "objection_type": "loss to competitor",
+            "client_quote": "Более выгодные условия",
+            "manager_handled": false,
+            "manager_actions": []
+          },
+          {
+            "objection_type": "loss to competitor",
+            "client_quote": "Они внедрили [Corp_Card_Payment]",
+            "manager_handled": false,
+            "manager_actions": []
+          }
+        ]
+      }
+    }
+  }
+]
